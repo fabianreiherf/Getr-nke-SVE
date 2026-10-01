@@ -1,0 +1,14 @@
+{
+  "name": "Getränke-Bestellbuch",
+  "short_name": "Getränke",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#131d57",
+  "theme_color": "#20317f",
+  "lang": "de",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
